@@ -1,0 +1,1 @@
+Check Permutation: Given two strings, write a method to decide if one is a permutiation of the other.
