@@ -3,9 +3,6 @@ There are three types of edits that can be performed on strings: insert a charac
 EXAMPLE
 
 pale, ple -> true
-
 pales, pale -> true
-
 pale, bale -> true
-
 pale, bake -> false
